@@ -10,6 +10,8 @@ function App() {
   );
 }
 
+function LoadComments 
+
 function Counter(){
   const [count,setCount] = useState(0);
   const handleIncrease = () => setCount(count + 1);
